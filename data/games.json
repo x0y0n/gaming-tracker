@@ -1,0 +1,31 @@
+[ {
+  "name" : "Rocket League",
+  "genre" : "Fußball",
+  "playtime" : 320.0,
+  "rating" : 5,
+  "status" : "PLAYING"
+}, {
+  "name" : "Fortnite",
+  "genre" : "Shooter",
+  "playtime" : 137.0,
+  "rating" : 4,
+  "status" : "COMPLETED"
+}, {
+  "name" : "Brawl Stars",
+  "genre" : "Mobile",
+  "playtime" : 70.0,
+  "rating" : 5,
+  "status" : "PLAYING"
+}, {
+  "name" : "Clash Royale",
+  "genre" : "Mobile",
+  "playtime" : 60.0,
+  "rating" : 2,
+  "status" : "COMPLETED"
+}, {
+  "name" : "Minecraft",
+  "genre" : "Sandbox",
+  "playtime" : 600.0,
+  "rating" : 5,
+  "status" : "COMPLETED"
+} ]
